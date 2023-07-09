@@ -8,5 +8,6 @@
   "cbot":true,
   "dapi":true,
   "wav":true
-  "d3info":true
+  "d3info":true,
+  "errmsg":"Api is off for some reasons."
 }
