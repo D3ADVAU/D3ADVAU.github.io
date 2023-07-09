@@ -1,9 +1,10 @@
 {
-  "bdid":true,
+  "bdid":false,
+  "bdnum": false
   "urlshortner":true,
   "smsbmb":true,
   "mailspf":true,
-  "dfb":true,
+  "dfb":false,
   "wss":true,
   "cbot":true,
   "dapi":true,
