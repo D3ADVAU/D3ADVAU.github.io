@@ -1,5 +1,5 @@
 {
-  "bdid":false,
+  "bdid":true,
   "bdnum": false,
   "urlshortner":true,
   "smsbmb":true,
