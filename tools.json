@@ -1,6 +1,6 @@
 {
   "bdid":false,
-  "bdnum": false
+  "bdnum": false,
   "urlshortner":true,
   "smsbmb":true,
   "mailspf":true,
