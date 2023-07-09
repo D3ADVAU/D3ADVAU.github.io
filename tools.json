@@ -10,5 +10,7 @@
   "dapi":true,
   "wav":true,
   "d3info":true,
+  "admin":"d3advau",
+  "contact":"d3advau.t.me",
   "errmsg":"Api is off for some reasons."
 }
