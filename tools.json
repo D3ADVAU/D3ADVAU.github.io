@@ -1,0 +1,12 @@
+{
+  "bdid":true,
+  "urlshortner":true,
+  "smsbmb":true,
+  "mailspf":true,
+  "dfb":true,
+  "wss":true,
+  "cbot":true,
+  "dapi":true,
+  "wav":true
+  "d3info":true
+}
