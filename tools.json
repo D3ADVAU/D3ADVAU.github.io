@@ -6,7 +6,7 @@
   "mailspf":true,
   "dfb":false,
   "wss":true,
-  "cbot":false,
+  "cbot":true,
   "dapi":true,
   "wav":true,
   "d3info":true,
