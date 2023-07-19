@@ -2,6 +2,7 @@
   "bdid":false,
   "bdnum": true,
   "numtid":true,
+  "idtnum": true,
   "urlshortner":true,
   "smsbmb":true,
   "mailspf":true,
