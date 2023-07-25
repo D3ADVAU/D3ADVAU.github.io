@@ -1,8 +1,8 @@
 {
   "bdid":false,
   "bdnum": true,
-  "numtid":true,
-  "idtnum": true,
+  "numtid":false,
+  "idtnum": false,
   "urlshortner":true,
   "smsbmb":true,
   "mailspf":true,
