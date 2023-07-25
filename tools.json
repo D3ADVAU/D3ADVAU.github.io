@@ -14,5 +14,5 @@
   "d3info":true,
   "admin":"d3advau",
   "contact":"d3advau.t.me",
-  "errmsg":"Api is off for some reasons."
+  "errmsg":"Authorization failed, please login again."
 }
