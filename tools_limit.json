@@ -1,0 +1,9 @@
+{
+ "bdid":{
+   "admin":500,
+   "special":300,
+   "diamond":120,
+   "platinum":20,
+   "gold":10
+ }
+}
