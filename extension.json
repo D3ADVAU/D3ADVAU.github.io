@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aniyomi: Anix com co",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.anixcomco",
+    "apk": "aniyomi-all.anixcomco-v1.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anix com co",
+        "lang": "all",
+        "id": "7207908906752762391",
+        "baseUrl": "https://anix.com.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Anikoto",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.anikoto",
+    "apk": "aniyomi-all.anikoto-v1.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anikoto",
+        "lang": "all",
+        "id": "5915599818816827050",
+        "baseUrl": "https://anikototv.to",
+        "versionId": 1
+      }
+    ]
+  }
+]
